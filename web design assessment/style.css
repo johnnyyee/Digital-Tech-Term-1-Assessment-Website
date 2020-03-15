@@ -1,0 +1,38 @@
+body{
+background-color: paleturquoise;
+}
+
+
+.ok{
+text-align: center;
+font-size: 50px;
+font-family: monospace ;
+border: solid;
+border-color: black;
+background-color: aliceblue
+
+
+}
+
+#image1{
+border: 5px solid;
+border-color: purple;
+
+
+}
+
+.ok2{
+font-family: "Lucida Console";
+text-align: center;
+font-size: 50px;
+border: solid;
+border-color: black;
+background-color: aliceblue;
+}
+
+
+
+#image2{
+border: 5px solid;
+border-color: purple;
+}
