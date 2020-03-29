@@ -1,0 +1,107 @@
+body {
+    background-color: lightgray;
+
+}
+
+
+.text1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Comic Sans MS", sans-serif;
+    
+}
+
+.bar {
+    background-color: #313132;
+    position: fixed;
+    top: 0;
+    left: 0px;
+    width: 100%;
+    padding: 5px 1px;
+    
+}
+
+.bar a {
+    float: left;
+    color: #a9a9a9;
+    text-decoration: none;
+    font-family: "Arial", sans-serif;
+    
+}
+
+a:hover {
+    color: #ebebeb;
+    
+}
+
+
+.home {
+    font-size: 30px;
+    position: relative;
+    left: 30px;
+}
+
+.ar {
+    font-size: 30px;
+    position: relative;
+    left: 60px;
+}
+
+.line{
+    border: 1px solid;
+    border-color: white;
+    position: relative;
+    bottom: 55px;
+}
+
+
+#image1 {
+    border: 5px solid;
+    border-color: purple;
+    height: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#image2 {
+    border: 5px solid;
+    border-color: purple;
+    height: 250px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#image3 {
+    border: 5px solid;
+    border-color: purple;
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#image4{
+    border: 5px solid;
+    border-color: purple;
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.textd {
+    font-family: "Arial";
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    bottom: 40px;
+    
+}
